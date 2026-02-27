@@ -1,0 +1,23 @@
+{
+  "name": "colorful-optimistic-theme",
+  "displayName": "Colorful Optimistic Theme",
+  "description": "A positive light theme designed for happy coding and a bright mood.",
+  "version": "0.0.1",
+  "publisher": "ReasonInThinking", 
+  "icon": "icon.png",
+  "engines": {
+    "vscode": "^1.109.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Colorful Optimistic Theme",
+        "uiTheme": "vs",
+        "path": "./themes/Colorful Optimistic Theme-color-theme.json"
+      }
+    ]
+  }
+}
