@@ -4,7 +4,7 @@ A vibrant and high-contrast theme for Visual Studio Code designed for clarity an
 
 ## 🚀 Installation
 
-Until this theme is published on the Marketplace, you can install it manually:
+You can install it manually:
 
 1. **Download** this repository as a ZIP or clone it.
 2. **Extract** the contents into your VS Code extensions folder:
